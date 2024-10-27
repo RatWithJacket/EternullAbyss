@@ -1,4 +1,4 @@
-// This document just inserts the header onto every page so I don't have to do it manually. I.e. its like a PHP include
+// This document just inserts the header onto every page so you don't have to do it manually. I.e. its like a PHP include
 
 var funnyDocument = document.getElementById('header')
 
